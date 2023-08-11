@@ -11,7 +11,7 @@ const config = {
   favicon: 'img/logo.jpg',
 
   // Set the production url of your site here
-  url: 'https://pcd.foxberry.live',
+  url: 'https://foxberry-technologies.github.io/pmc-care-documentation/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/pmc-care-documentation',
@@ -42,14 +42,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/Foxberry-Technologies/pmc-care-documentation/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Foxberry-Technologies/pmc-care-documentation/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/Foxberry-Technologies/pmc-care-documentation/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Foxberry-Technologies/pmc-care-documentation/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
