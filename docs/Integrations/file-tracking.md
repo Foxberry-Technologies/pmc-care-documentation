@@ -11,7 +11,7 @@ On this view there are links to
 - Inward Register
 - Completed List
 
-<img src="/img/ft/fts.jpg" alt="fts dash" width="200"/>
+<img src="/pmc-care-documentation/img/ft/fts.jpg" alt="fts dash" width="200"/>
 
 ### Inbox (Accept/Reject) List
 
