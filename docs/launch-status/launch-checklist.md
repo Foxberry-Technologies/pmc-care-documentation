@@ -5,8 +5,8 @@
 |----------------------------------------------------|-------------|-------------|-----------------|
 | Website code latest deployment                     | Prasad B.   | 🟢 Resolved | 🟠 Medium      |
 | Microservices code latest deployment               | Prasad B.   | 🟢 Resolved | 🟠 Medium      |
-| Database latest version clone & deploy             | Shanu J.    | 🟣 Pending  | 🔴 High        |
-| Update database with production URLs               | Shanu J.    | 🟣 Pending  | 🔴 High        |
+| Database latest version clone & deploy             | Prasad B.   | 🔵 Progress | 🔴 High        |
+| Update database with production URLs               | Prasad B.   | 🔵 Progress | 🔴 High        |
 | Strapi latest code deployment                      | Shanu J.    | 🟣 Pending  | 🟡 Low         |
 | Strapi database latest code deployment             | Shanu J.    | 🟣 Pending  | 🟡 Low         |
 | Automate Strapi image creation                     | Shanu J.    | 🟣 Pending  | 🟡 Low         |
