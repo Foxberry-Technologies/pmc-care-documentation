@@ -11,7 +11,7 @@
 | Strapi database latest code deployment             | Shanu J.    | 🟣 Pending  | 🟡 Low         |
 | Automate Strapi image creation                     | Shanu J.    | 🟣 Pending  | 🟡 Low         |
 | Deploy latest Strapi uploaded images/attachments   | Shanu J.    | 🟣 Pending  | 🟡 Low         |
-| Create Excel of services/websites with IP/port     | Prasad B.   | 🟢 Resolved | 🟠 Medium      |
+| Create Excel of services/websites with IP/port     | Shanu J.    | 🟢 Resolved | 🟠 Medium      |
 | Send proxy setup document to ESDS                  | Shanu J.    | 🟣 Pending  | 🟠 Medium      |
 | ESDS to sets up proxy                              | ESDS        | 🟣 Pending  | 🔴 High        |
 | Send proxy settings to Jitesh Lohar                | Aniket J.   | 🟣 Pending  | 🔴 High        |
