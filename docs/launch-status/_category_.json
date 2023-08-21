@@ -1,0 +1,8 @@
+{
+  "label": "Launch Status",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Track the launch status below"
+  }
+}
