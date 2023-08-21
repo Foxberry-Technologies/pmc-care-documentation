@@ -2,6 +2,8 @@
 
 This document provides a step-by-step guide to installing and setting up Locust, a Python-based load testing tool, on a Windows operating system. Follow these instructions to ensure a successful installation and configuration.
 
+> 💡**Jump to Load Testing**: If you have finished the setup then you can go ahead to **Stress Testing**
+
 ## Prerequisites
 
 Before you begin, make sure you have the following prerequisites in place:
@@ -31,24 +33,9 @@ Locust has dependencies that require the Visual Studio Build Tools to be install
 
 To run Locust, you need to install several Python packages. Open the Command Prompt (CMD) and execute the following commands:
 
-a. Install pyzmq:
+Install plugins:
    ```
-   pip install pyzmq
-   ```
-
-b. Install gevent:
-   ```
-   pip install gevent
-   ```
-
-c. Install greenlet:
-   ```
-   pip install greenlet
-   ```
-
-d. Install Locust:
-   ```
-   pip install locust
+   pip install pyzmq gevent greenlet locust uuid matplotlib pandas
    ```
 
 ### 4. Verify Installation
