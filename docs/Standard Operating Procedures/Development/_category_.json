@@ -1,8 +1,8 @@
 {
-  "label": "Development & Maintenance",
+  "label": "Coding Standards",
   "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "Track the launch status below"
+    "description": "Proper coding standards are essential for maintaining readable, consistent, and maintainable software. They encompass formatting, naming conventions, commenting, and architectural guidelines. Adhering to these standards improves collaboration, reduces errors, and enhances code quality, enabling efficient development and easier debugging for individual programmers and teams alike."
   }
 }
