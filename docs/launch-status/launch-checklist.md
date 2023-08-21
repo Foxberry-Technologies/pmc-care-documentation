@@ -12,13 +12,13 @@
 | Automate Strapi image creation                     | Shanu J.    | 🟣 Pending  | 🟡 Low         |
 | Deploy latest Strapi uploaded images/attachments   | Shanu J.    | 🟣 Pending  | 🟡 Low         |
 | Create Excel of services/websites with IP/port     | Shanu J.    | 🟢 Resolved | 🟠 Medium      |
-| Send proxy setup document to ESDS                  | Shanu J.    | 🔵 Progress  | 🟠 Medium      |
+| Send proxy setup document to ESDS                  | Shanu J.    | 🟢 Resolved  | 🟠 Medium      |
 | ESDS to sets up proxy                              | ESDS        | 🔵 Progress  | 🔴 High        |
-| Send proxy settings to Jitesh Lohar                | Aniket J.   | 🟣 Pending  | 🔴 High        |
-| Check URL/page redirection via pmccare.in          | Testing     | 🟣 Pending  | 🟠 Medium      |
-| Test application functionality                     | Testing     | 🟣 Pending  | 🟠 Medium      |
-| Update production URLs in backend                  | Aniket C.   | 🟣 Pending  | 🔴 High        |
-| Update production URLs in frontend                 | Yash K.     | 🟣 Pending  | 🔴 High        |
+| Proxy settings to be updated for API               | Aniket J.   | 🔵 Progress  | 🔴 High        |
+| Check URL/page redirection via pmccare.in          | Testing     | 🟢 Resolved  | 🟠 Medium      |
+| Test application functionality                     | Testing     | 🔵 Progress  | 🟠 Medium      |
+| Update production URLs in backend                  | Aniket C.   | 🔵 Progress  | 🔴 High        |
+| Update production URLs in frontend                 | Yash K.     | 🔵 Progress  | 🔴 High        |
 | Merge latest code into production branch           | Shanu J.    | 🟣 Pending  | 🔴 High        |
 | Release code tags with date                        | Shanu J.    | 🟣 Pending  | 🟡 Low         |
 | Automated Docker image creation                    | Shanu J.    | 🟣 Pending  | 🟡 Low         |
