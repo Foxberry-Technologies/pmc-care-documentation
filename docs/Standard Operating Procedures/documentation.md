@@ -1,4 +1,4 @@
-# Documentation Maintenance Guide
+# Maintenance Guide
 
 This document provides a step-by-step guide on how to maintain documentation using GitHub's version control system. By following these steps, you can easily update and contribute to documentation while ensuring a streamlined collaboration process.
 
