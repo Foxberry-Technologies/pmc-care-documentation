@@ -5,15 +5,15 @@
 |----------------------------------------------------|-------------|-------------|-----------------|
 | Website code latest deployment                     | Prasad B.   | 🟢 Resolved | 🟠 Medium      |
 | Microservices code latest deployment               | Prasad B.   | 🟢 Resolved | 🟠 Medium      |
-| Database latest version clone & deploy             | Prasad B.   | 🔵 Progress | 🔴 High        |
+| Database latest version clone & deploy             | Prasad B.   | 🟢 Resolved | 🔴 High        |
 | Update database with production URLs               | Prasad B.   | 🔵 Progress | 🔴 High        |
 | Strapi latest code deployment                      | Shanu J.    | 🟣 Pending  | 🟡 Low         |
 | Strapi database latest code deployment             | Shanu J.    | 🟣 Pending  | 🟡 Low         |
 | Automate Strapi image creation                     | Shanu J.    | 🟣 Pending  | 🟡 Low         |
 | Deploy latest Strapi uploaded images/attachments   | Shanu J.    | 🟣 Pending  | 🟡 Low         |
 | Create Excel of services/websites with IP/port     | Shanu J.    | 🟢 Resolved | 🟠 Medium      |
-| Send proxy setup document to ESDS                  | Shanu J.    | 🟣 Pending  | 🟠 Medium      |
-| ESDS to sets up proxy                              | ESDS        | 🟣 Pending  | 🔴 High        |
+| Send proxy setup document to ESDS                  | Shanu J.    | 🔵 Progress  | 🟠 Medium      |
+| ESDS to sets up proxy                              | ESDS        | 🔵 Progress  | 🔴 High        |
 | Send proxy settings to Jitesh Lohar                | Aniket J.   | 🟣 Pending  | 🔴 High        |
 | Check URL/page redirection via pmccare.in          | Testing     | 🟣 Pending  | 🟠 Medium      |
 | Test application functionality                     | Testing     | 🟣 Pending  | 🟠 Medium      |
