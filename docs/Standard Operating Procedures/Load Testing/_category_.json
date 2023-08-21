@@ -1,0 +1,8 @@
+{
+  "label": "Load Testing",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Load testing with Locust: Simulate user behavior, assess application performance, and analyze response times using defined tasks and users."
+  }
+}
