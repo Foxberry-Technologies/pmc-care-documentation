@@ -31,7 +31,7 @@ Migrating a database from MongoDB Atlas to your own production servers involves 
 
 1. Once connected to the production MongoDB server, initiate a backup using the following command:
    ```
-   mongodump --db <production_db_name> --out <backup_directory>
+   mongodump --uri="mongodb+srv://<username>:<Password>@<Cluster>.mongodb.net/<Database_name>?retryWrites=true&w=majority" 
    ```
 
 ## Remove the Existing Production Database
@@ -47,7 +47,7 @@ Migrating a database from MongoDB Atlas to your own production servers involves 
 1. In the same terminal, navigate to the directory where you saved the backup created from Atlas.
 2. Run the following command to restore the backup to the production server:
    ```
-   mongorestore --db <production_db_name> <backup_directory>/<atlas_db_name>
+   mongorestore --uri="mongodb://<IP-address>:27017" --nsFrom="<database-name.*>" --nsTo="<newdbname.*>" dump 
    ```
 
 ## Update URLs and Production Settings
