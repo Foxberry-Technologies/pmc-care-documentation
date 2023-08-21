@@ -26,6 +26,8 @@
 | Update Docker Swarm with latest images             | Prasad B.   | 🟣 Pending  | 🟡 Low         |
 | Restart all services                               | Prasad B.   | 🟣 Pending  | 🔴 High        |
 | Check the latest setup                             | Prasad B.   | 🟣 Pending  | 🔴 High        |
+| Check external service integration                 | Prasad B.   | 🟣 Pending  | 🔴 High        |
+| Check external service whitelist                   | Prasad B.   | 🟣 Pending  | 🔴 High        |
 | Perform stress testing                             | Testing     | 🟣 Pending  | 🔴 High        |
 | Move Android app/iOS app to production URLs        | Satyam K.   | 🟣 Pending  | 🟠 Medium      |
 | Release production app on Android and iOS          | Satyam K.   | 🟣 Pending  | 🟠 Medium      |
