@@ -13,8 +13,8 @@
 | Deploy latest Strapi uploaded images/attachments   | Shanu J.    | 🟣 Pending  | 🟡 Low         |
 | Create Excel of services/websites with IP/port     | Shanu J.    | 🟢 Resolved | 🟠 Medium      |
 | Send proxy setup document to ESDS                  | Shanu J.    | 🟢 Resolved  | 🟠 Medium      |
-| ESDS to sets up proxy                              | ESDS        | 🔵 Progress  | 🔴 High        |
-| Proxy settings to be updated for API               | Aniket J.   | 🔵 Progress  | 🔴 High        |
+| ESDS to sets up proxy                              | ESDS        | 🟢 Resolved  | 🔴 High        |
+| Proxy API to be updated to DNS                     | Aniket J.   | 🔵 Progress  | 🔴 High        |
 | Check URL/page redirection via pmccare.in          | Testing     | 🟢 Resolved  | 🟠 Medium      |
 | Test application functionality                     | Testing     | 🔵 Progress  | 🟠 Medium      |
 | Update production URLs in backend                  | Aniket C.   | 🔵 Progress  | 🔴 High        |
@@ -30,5 +30,5 @@
 | Check external service whitelist                   | Prasad B.   | 🟣 Pending  | 🔴 High        |
 | Perform stress testing                             | Testing     | 🟣 Pending  | 🔴 High        |
 | Move Android app/iOS app to production URLs        | Satyam K.   | 🟣 Pending  | 🟠 Medium      |
-| Release production app on Android and iOS          | Satyam K.   | 🟣 Pending  | 🟠 Medium      |
+| Release production app on Android and iOS          | Satyam K.   | 🟢 Resolved  | 🟠 Medium      |
 | Final checks and issue resolution                  | Testing     | 🟣 Pending  | 🔴 High        |
