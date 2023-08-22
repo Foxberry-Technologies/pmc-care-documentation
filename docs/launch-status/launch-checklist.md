@@ -15,8 +15,8 @@
 | Send proxy setup document to ESDS                  | Shanu J.    | 🟢 Resolved  | 🟠 Medium      |
 | ESDS to sets up proxy                              | ESDS        | 🟢 Resolved  | 🔴 High        |
 | Proxy API to be updated to DNS                     | Aniket J.   | 🔵 Progress  | 🔴 High        |
-| SSL request for *.pmccare.in                       | Aniket J.   | 🔵 Progress  | 🔴 High        |
-| SSL request for pmccare.in                         | Aniket J.   | 🔵 Progress  | 🔴 High        |
+| SSL request for *.pmccare.in                       | Aniket J.   | 🟢 Resolved  | 🔴 High        |
+| SSL installation at backend                        | ESDS        | 🔵 Progress  | 🔴 High        |
 | Check URL/page redirection via pmccare.in          | Testing     | 🟢 Resolved  | 🟠 Medium      |
 | Test application functionality                     | Testing     | 🔵 Progress  | 🟠 Medium      |
 | Update production URLs in backend                  | Aniket C.   | 🔵 Progress  | 🔴 High        |
