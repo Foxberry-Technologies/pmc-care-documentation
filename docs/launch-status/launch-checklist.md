@@ -19,7 +19,7 @@
 | SSL installation at backend                        | ESDS        | 🔵 Progress | 🔴 High        |
 | Check URL/page redirection via pmccare.in          | Testing     | 🟢 Resolved | 🟠 Medium      |
 | Test application functionality                     | Testing     | 🔵 Progress | 🟠 Medium      |
-| Update production URLs in backend                  | Aniket C.   | 🔵 Progress | 🔴 High        |
+| Update production URLs in backend                  | Aniket C.   | 🟢 Resolved | 🔴 High        |
 | Update production URLs in frontend                 | Yash K.     | 🔵 Progress | 🔴 High        |
 | Merge latest code into production branch           | Shanu J.    | 🟣 Pending  | 🔴 High        |
 | Release code tags with date                        | Shanu J.    | 🟣 Pending  | 🟡 Low         |
