@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'PMC Care',
-  tagline: 'Complete requirement specification and integration documentation',
+  title: 'PMC Care Documentation',
+  tagline: 'Requirement and integration documentation',
   favicon: 'img/logo.jpg',
 
   // Set the production url of your site here
@@ -74,7 +74,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Docs',
+            label: 'Documentation',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -92,7 +92,7 @@ const config = {
             items: [
               {
                 label: 'Documentation',
-                to: '/docs/category/integrations',
+                to: '/docs/category/get-started',
               },
             ],
           },
@@ -100,34 +100,34 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'PMC Care on 𝕏',
+                href: 'https://twitter.com/PMCPune',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'PMC Care on facebook',
+                href: 'https://www.facebook.com/PMCPune',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'PMC Care on YouTube',
+                href: 'https://www.youtube.com/channel/UCnFQFtzZJszbkHgBTeusdoA',
               },
             ],
           },
           {
             title: 'More',
             items: [
+              // {
+              //   label: 'Blog',
+              //   to: '/blog',
+              // },
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/Foxberry-Technologies/pmc-care-documentation',
+                label: 'Website',
+                href: 'https://citizen.pmccare.in',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Foxberry Technologies Pvt. Ltd.`,
       },
       prism: {
         theme: lightCodeTheme,
