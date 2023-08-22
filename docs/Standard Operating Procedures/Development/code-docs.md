@@ -3,22 +3,6 @@ Guide to Writing Great Code Documentation
 
 Clear and well-organized documentation is essential for maintaining and sharing your code with others. Whether you're a novice developer or an experienced coder, this guide will walk you through the basics of creating documentation that is easy to understand and follow.
 
-## Table of Contents
-
-1. [Why Documentation Matters](#why-documentation-matters)
-2. [Types of Documentation](#types-of-documentation)
-3. [Best Practices for Writing Documentation](#best-practices-for-writing-documentation)
-   - [1. Use Clear and Concise Language](#use-clear-and-concise-language)
-   - [2. Provide Getting Started Instructions](#provide-getting-started-instructions)
-   - [3. Document Functionality and Usage](#document-functionality-and-usage)
-   - [4. Include Code Examples](#include-code-examples)
-   - [5. Explain Complex Algorithms and Logic](#explain-complex-algorithms-and-logic)
-   - [6. Document Interfaces and APIs](#document-interfaces-and-apis)
-   - [7. Use Proper Formatting](#use-proper-formatting)
-   - [8. Update Documentation Regularly](#update-documentation-regularly)
-4. [Tools for Documentation](#tools-for-documentation)
-
-
 ## 1. Why Documentation Matters
 
 Documentation is the written explanation of your code's purpose, functionality, and usage. It serves as a reference guide for you and other developers who work with your code. Proper documentation:

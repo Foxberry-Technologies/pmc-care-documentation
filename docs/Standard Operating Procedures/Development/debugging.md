@@ -3,12 +3,6 @@ Debug Code: A Guide for React Native, Node.js, and Angular 8
 
 Debugging is a crucial skill for developers to identify and resolve issues in their code. This documentation provides guidance on debugging code in three popular technologies: React Native, Node.js, and Angular 8. Each section outlines common debugging tools, techniques, and best practices specific to the technology.
 
-## Table of Contents
-
-1. [Debugging in React Native](#debugging-in-react-native)
-2. [Debugging in Node.js](#debugging-in-nodejs)
-3. [Debugging in Angular 8](#debugging-in-angular-8)
-
 ---
 
 ## Debugging in React Native

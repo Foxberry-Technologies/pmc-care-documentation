@@ -5,15 +5,6 @@ Welcome to the world of GitFlow! This comprehensive guide is tailored for beginn
 
 > **Note**: GitFlow might have some terms that seem unfamiliar. Don't worry! We've included explanations in blockquotes to help you understand these terms better.
 
-## Table of Contents
-
-1. [Introduction to GitFlow](#introduction-to-gitflow)
-2. [Main Branches](#main-branches)
-3. [Supporting Branches](#supporting-branches)
-4. [Workflow Examples](#workflow-examples)
-5. [Best Practices](#best-practices)
-6. [Conclusion](#conclusion)
-
 ---
 
 ## Introduction to GitFlow

@@ -2,16 +2,6 @@
 
 This document provides a step-by-step guide on how to maintain documentation using GitHub's version control system. By following these steps, you can easily update and contribute to documentation while ensuring a streamlined collaboration process.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Maintaining Documentation](#maintaining-documentation)
-- [Step-by-Step Guide](#step-by-step-guide)
-  - [1. Accessing the Documentation](#1-accessing-the-documentation)
-  - [2. Editing the Documentation](#2-editing-the-documentation)
-  - [3. Committing Changes](#3-committing-changes)
-  - [4. Creating a Pull Request](#4-creating-a-pull-request)
-- [Conclusion](#conclusion)
-
 ## Introduction
 Maintaining documentation is essential for keeping project information accurate and up-to-date. Using GitHub's collaborative features, you can easily contribute to documentation by suggesting changes and creating pull requests. This guide outlines the process for editing and updating documentation hosted on GitHub.
 
