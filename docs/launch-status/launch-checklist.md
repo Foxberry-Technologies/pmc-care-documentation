@@ -8,7 +8,7 @@
 | Database latest version clone & deploy             | Prasad B.   | 🟢 Resolved | 🔴 High        |
 | Update database with production URLs               | Aniket C.   | 🟢 Resolved | 🔴 High        |
 | Strapi latest code deployment                      | Shanu J.    | 🟢 Resolved | 🟡 Low         |
-| Strapi database latest code deployment             | Shanu J.    | 🔵 Progress | 🟡 Low         |
+| Strapi database latest code deployment             | Shanu J.    | 🟢 Resolved | 🟡 Low         |
 | Automate Strapi image creation                     | Shanu J.    | 🟢 Resolved | 🟡 Low         |
 | Deploy latest Strapi uploaded images/attachments   | Shanu J.    | 🟢 Resolved | 🟡 Low         |
 | Create Excel of services/websites with IP/port     | Shanu J.    | 🟢 Resolved | 🟠 Medium      |
@@ -26,9 +26,9 @@
 | Automated Docker image creation                    | Shanu J.    | 🟢 Resolved | 🟡 Low         |
 | Set up images on server (Infrastructure as Code)   | Shanu J.    | 🟢 Resolved | 🟡 Low         |
 | Update Docker Swarm with latest images             | Prasad B.   | 🟢 Resolved | 🟡 Low         |
-| Check external service integration                 | Prasad B.   | 🔵 Progress | 🔴 High        |
-| Check external service whitelist                   | Prasad B.   | 🔵 Progress | 🔴 High        |
+| Check external service integration                 | Prasad B.   | 🟢 Resolved | 🔴 High        |
+| Check external service whitelist                   | Avinash M.  | 🟢 Resolved | 🔴 High        |
 | Perform stress testing                             | Testing     | 🟢 Resolved | 🔴 High        |
 | Move Android app/iOS app to production URLs        | Satyam K.   | 🟢 Resolved | 🟠 Medium      |
-| Release production app on Android and iOS          | Satyam K.   | 🔵 Progress | 🟠 Medium      |
-| Final checks and issue resolution                  | Testing     | 🔵 Progress | 🔴 High        |
+| Release production app on Android and iOS          | Satyam K.   | 🟢 Resolved | 🟠 Medium      |
+| Final checks and issue resolution                  | Testing     | 🟢 Resolved | 🔴 High        |
